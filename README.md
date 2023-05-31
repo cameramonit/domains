@@ -8,13 +8,16 @@ domains for project
 
 [camalink.com](camalink.com)
 
-[.com](.com)
+[camma.com](camma.com)
+
+[camerachat.com](camerachat.com)
+
+[cameratext.com](cameratext.com)
 
 [.com](.com)
 
 [.com](.com)
-
-
+.com
 
 ## free
 
@@ -23,5 +26,9 @@ domains for project
 [cammesh.com](cammesh.com)
 
 [camalyser.com](camalyser.com) - camera analyser
+
+[.com](.com)
+
+[.com](.com)
 
 [.com](.com)
